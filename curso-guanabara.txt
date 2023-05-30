@@ -1,0 +1,18 @@
+# Guanabara: Curso de PHP Moderno - Módulo 1
+
+https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_
+
+Raphael, o ideal é que veja todos os vídeos.
+Mas se não for possível, veja pelo menos os vídeos sobre:
+
+8.  Como funciona o PHP
+12. Seu servidor PHP no Windows
+20. Variáveis e constantes
+23. Obtendo dados de formulários - Parte 1
+24. Obtendo dados de formulários - Parte 2
+25. Expressões aritméticas
+27. Operadores aritméticos
+28. Cinco desafios para iniciantes
+Deste vídeo, tente fazer pelo menos um dos três primeiros desafios.
+
+SOMENTE DEPOIS DE VER OS VÍDEOS, vá para sua atividade de recuperação.
