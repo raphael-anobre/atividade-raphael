@@ -24,6 +24,8 @@ body { font-family: 'Segoe UI', Verdana; }
         <li>Campo <b>select</b> com 1 <b>option</b> VAZIO e mais 4 (um para cada operação básica): <b>SOMA</b>, <b>SUBTRAÇÃO</b>, <b>MULTIPLICAÇÃO</b> e <b>DIVISÃO</b></li>
         <li>Botão submit para calcular</li>
     </ul>
+
+    <!-- faça o formulário aqui mesmo -->
     
     <h3>Etapa 02</h3>
     <p>Usando PHP, faça a seguinte programação:</p>
@@ -41,6 +43,8 @@ body { font-family: 'Segoe UI', Verdana; }
         </li>
     </ul>
     
+    <!-- faça o php aqui -->
+
 </body>
 
 </html>
